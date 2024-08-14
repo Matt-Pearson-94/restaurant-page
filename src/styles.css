@@ -142,7 +142,7 @@ nav:not(hover) {
     border: 2px solid black;
     display: flex;
     background-color: white;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 .contact-body-container > div {
